@@ -2,7 +2,8 @@ package formatter
 
 import (
 	"errors"
-	"mkdn/formatter/gof"
+
+	"github.com/someone-stole-my-name/mkdn/formatter/gof"
 )
 
 type Formatter interface {

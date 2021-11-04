@@ -4,8 +4,9 @@ import (
 	"flag"
 	"fmt"
 	"io/ioutil"
-	"mkdn/formatter"
 	"os"
+
+  "github.com/someone-stole-my-name/mkdn/formatter"
 )
 
 func main() {
